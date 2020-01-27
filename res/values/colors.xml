@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bgApp">#1d4d4f</color>
+    <color name="colorPrimaryDark">#1d4d4f</color>
+    <color name="colorAccent">#655c56</color>
+    <color name="bgBrounieApp">#e5dfdf</color>
+    <color name="textColorApp">#1b2a49</color>
+    <color name="buttonColor">#0f4c75</color>
+
+</resources>

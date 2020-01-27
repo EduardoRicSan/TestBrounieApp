@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TestBrounie</string>
+
+    <!--Create the string-array -->
+    <string-array name="categories">
+        <item>Foods</item>
+        <item>Sports</item>
+        <item>Hobbies</item>
+        <item>Movies</item>
+        <item>Songs</item>
+    </string-array>
+
+    <string name="map_key" templateMergeStrategy="preserve" translatable="false">AIzaSyDat2cRuFhWcu3ln_CnQYNH5N-2QJm6YSc</string>
+</resources>
